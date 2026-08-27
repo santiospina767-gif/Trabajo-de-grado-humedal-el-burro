@@ -1,0 +1,321 @@
+Source,Target,Type,Tipos_interaccion
+Apis mellifera,Trifolium repens,Undirected,eats; interactsWith; pollinates; visits; visitsFlowersOf
+Apis mellifera,Trifolium pratense,Undirected,eats; interactsWith; pollinates; visits; visitsFlowersOf
+Apis mellifera,Taraxacum officinale,Undirected,adjacentTo; eats; hasHost; interactsWith; pollinates; visits; visitsFlowersOf
+Apis mellifera,Cirsium vulgare,Undirected,eats; interactsWith; pollinates; visits; visitsFlowersOf
+Apis mellifera,Lantana camara,Undirected,eats; interactsWith; pollinates; visits; visitsFlowersOf
+Apis mellifera,Eriobotrya japonica,Undirected,pollinates
+Apis mellifera,Tropaeolum majus,Undirected,eats; interactsWith; pollinates; visits; visitsFlowersOf
+Apis mellifera,Cucurbita pepo,Undirected,eats; interactsWith; pollinates; visits; visitsFlowersOf
+Apis mellifera,Baccharis latifolia,Undirected,eats; visitsFlowersOf
+Apis mellifera,Lobularia maritima,Undirected,eats; interactsWith; pollinates; visitsFlowersOf
+Apis mellifera,Raphanus raphanistrum,Undirected,eats; interactsWith; pollinates; visits; visitsFlowersOf
+Apis mellifera,Persea americana,Undirected,eats; interactsWith; pollinates; visits; visitsFlowersOf
+Apis mellifera,Tecoma stans,Undirected,eats; hasHost; interactsWith; visits; visitsFlowersOf
+Apis mellifera,Sambucus nigra,Undirected,eats; pollinates; visitsFlowersOf
+Apis mellifera,Coriandrum sativum,Undirected,eats; interactsWith; pollinates; visitsFlowersOf
+Apis mellifera,Vallea stipularis,Undirected,eats; visitsFlowersOf
+Apis mellifera,Veronica persica,Undirected,eats; interactsWith; pollinates; visits; visitsFlowersOf
+Apis mellifera,Piranga rubra,Undirected,eats; preysOn
+Apis mellifera,Bidens laevis,Undirected,eats; interactsWith; visits; visitsFlowersOf
+Apis mellifera,Ricinus communis,Undirected,eats; pollinates; visits; visitsFlowersOf
+Apis mellifera,Capsella bursa-pastoris,Undirected,interactsWith; pollinates; visitsFlowersOf
+Apis mellifera,Prunus serotina,Undirected,eats; interactsWith; pollinates; visitsFlowersOf
+Apis mellifera,Schinus molle,Undirected,eats; pollinates; visitsFlowersOf
+Apis mellifera,Typha latifolia,Undirected,eats
+Apis mellifera,Ipomoea purpurea,Undirected,eats; interactsWith; visitsFlowersOf
+Apis mellifera,Contopus virens,Undirected,eats
+Apis mellifera,Thunbergia alata,Undirected,pollinates; visitsFlowersOf
+Apis mellifera,Verbena litoralis,Undirected,eats; interactsWith; visitsFlowersOf
+Apis mellifera,Baccharis macrantha,Undirected,eats
+Apis mellifera,Physalis peruviana,Undirected,eats; visitsFlowersOf
+Apis mellifera,Clusia multiflora,Undirected,eats
+Apis mellifera,Tyrannus tyrannus,Undirected,eats
+Apis mellifera,Zelus longipes,Undirected,eats; preysOn
+Apis mellifera,Smallanthus pyramidalis,Undirected,eats; visitsFlowersOf
+Apis mellifera,Vireo olivaceus,Undirected,eats
+Apis mellifera,Steatoda nobilis,Undirected,eats; preysOn
+Abatia parviflora,Apis mellifera,Undirected,eats
+Apis mellifera,Impatiens sodenii,Undirected,eats; visitsFlowersOf
+Acacia dealbata,Apis mellifera,Undirected,pollinates
+Apis mellifera,Salix humboldtiana,Undirected,eats
+Apis mellifera,Quercus humboldtii,Undirected,eats
+Apis mellifera,Nicotiana tabacum,Undirected,visitsFlowersOf
+Apis mellifera,Bocconia frutescens,Undirected,eats
+Apis mellifera,Myrcianthes leucoxyla,Undirected,eats
+Apis mellifera,Tara spinosa,Undirected,eats
+Apis mellifera,Cotoneaster coriaceus,Undirected,eats; visitsFlowersOf
+Apis mellifera,Lepechinia bullata,Undirected,eats
+Alnus acuminata,Apis mellifera,Undirected,eats
+Apis mellifera,Rubus glaucus,Undirected,pollinates
+Apis mellifera,Citharexylum subflavescens,Undirected,eats
+Apis mellifera,Morella pubescens,Undirected,interactsWith
+Apis mellifera,Tigridia pavonia,Undirected,visitsFlowersOf
+Apis mellifera,Solanum quitoense,Undirected,eats
+Apis mellifera,Zonotrichia capensis,Undirected,eats
+Apis mellifera,Dodonaea viscosa,Undirected,eats
+Apis mellifera,Oreopanax incisus,Undirected,eats
+Apis mellifera,Duranta mutisii,Undirected,eats
+Apis mellifera,Streptosolen jamesonii,Undirected,eats
+Apis mellifera,Crocosmia × crocosmiiflora,Undirected,visitsFlowersOf
+Harmonia axyridis,Trifolium repens,Undirected,eats; visitsFlowersOf
+Columba livia domestica,Trifolium repens,Undirected,eats
+Trifolium pratense,Trifolium repens,Undirected,interactsWith
+Colias dimera,Trifolium repens,Undirected,coOccursWith; eats
+Bombus pauloensis,Trifolium repens,Undirected,interactsWith
+Fulica americana,Trifolium repens,Undirected,eats
+Trifolium repens,Vanessa carye,Undirected,visitsFlowersOf
+Bombus pauloensis,Trifolium pratense,Undirected,eats; visitsFlowersOf
+Columba livia domestica,Trifolium pratense,Undirected,eats
+Harmonia axyridis,Trifolium pratense,Undirected,eats; interactsWith; visitsFlowersOf
+Trifolium pratense,Vanessa carye,Undirected,visitsFlowersOf
+Trifolium pratense,Zenaida auriculata pentheria,Undirected,eats
+Colias dimera,Trifolium pratense,Undirected,coOccursWith; eats; visitsFlowersOf
+Columba livia domestica,Taraxacum officinale,Undirected,eats
+Bombus pauloensis,Taraxacum officinale,Undirected,eats
+Colias dimera,Taraxacum officinale,Undirected,eats
+Spinus psaltria,Taraxacum officinale,Undirected,eats
+Taraxacum officinale,Zonotrichia capensis,Undirected,eats
+Taraxacum officinale,Tyrannus tyrannus,Undirected,eats
+Cirsium vulgare,Spinus psaltria,Undirected,eats; visitsFlowersOf
+Cirsium vulgare,Columba livia domestica,Undirected,eats
+Cirsium vulgare,Harmonia axyridis,Undirected,eats; hasHost; visits
+Cirsium vulgare,Vanessa carye,Undirected,visitsFlowersOf
+Bombus pauloensis,Cirsium vulgare,Undirected,eats; visitsFlowersOf
+Cirsium vulgare,Ricinus communis,Undirected,interactsWith
+Cirsium vulgare,Dione glycera,Undirected,eats
+Lantana camara,Leptophobia aripa,Undirected,hasHost; visitsFlowersOf
+Eristalinus taeniops,Lantana camara,Undirected,eats; visitsFlowersOf
+Lantana camara,Vanessa carye,Undirected,eats; visitsFlowersOf
+Lantana camara,Tyrannus melancholicus,Undirected,eats
+Lantana camara,Vireo olivaceus,Undirected,eats
+Bombus pauloensis,Lantana camara,Undirected,eats; visitsFlowersOf
+Dione glycera,Lantana camara,Undirected,eats; visitsFlowersOf
+Colibri coruscans,Lantana camara,Undirected,eats
+Lantana camara,Molothrus bonariensis,Undirected,eats
+Lantana camara,Thraupis palmarum,Undirected,eats
+Lantana camara,Zonotrichia capensis,Undirected,eats
+Empidonomus varius,Lantana camara,Undirected,eats
+Eriobotrya japonica,Zonotrichia capensis,Undirected,eats
+Eriobotrya japonica,Thraupis palmarum,Undirected,eats
+Eriobotrya japonica,Vireo olivaceus,Undirected,eats
+Empidonomus varius,Eriobotrya japonica,Undirected,eats
+Eriobotrya japonica,Tyrannus melancholicus,Undirected,eats
+Eriobotrya japonica,Persea americana,Undirected,interactsWith
+Eriobotrya japonica,Thraupis episcopus,Undirected,eats
+Eriobotrya japonica,Harmonia axyridis,Undirected,eats
+Eriobotrya japonica,Molothrus bonariensis,Undirected,eats
+Leptophobia aripa,Tropaeolum majus,Undirected,coOccursWith; eats; hasHost; interactsWith
+Molothrus bonariensis,Zonotrichia capensis,Undirected,hasHost; interactsWith; parasiteOf
+Molothrus bonariensis,Troglodytes musculus,Undirected,hasHost; parasiteOf
+Mimus gilvus,Molothrus bonariensis,Undirected,hasHost
+Molothrus bonariensis,Persea americana,Undirected,eats
+Molothrus bonariensis,Tyrannus melancholicus,Undirected,hasHost; interactsWith; parasiteOf
+Chrysomus icterocephalus bogotensis,Molothrus bonariensis,Undirected,interactsWith; parasiteOf
+Molothrus bonariensis,Thraupis palmarum,Undirected,hasHost
+Icterus chrysater,Molothrus bonariensis,Undirected,hasHost; parasiteOf
+Molothrus bonariensis,Sicalis flaveola,Undirected,interactsWith
+Molothrus bonariensis,Rupornis magnirostris,Undirected,eats
+Sambucus nigra,Zonotrichia capensis,Undirected,eats
+Bocconia frutescens,Zonotrichia capensis,Undirected,eats
+Morella pubescens,Zonotrichia capensis,Undirected,eats
+Alnus acuminata,Zonotrichia capensis,Undirected,eats
+Oreopanax incisus,Zonotrichia capensis,Undirected,eats
+Schinus molle,Zonotrichia capensis,Undirected,eats
+Columba livia domestica,Zonotrichia capensis,Undirected,interactsWith
+Persea americana,Zonotrichia capensis,Undirected,eats
+Solanum laxum,Zonotrichia capensis,Undirected,eats
+Dodonaea viscosa,Zonotrichia capensis,Undirected,coOccursWith
+Elanus leucurus,Zonotrichia capensis,Undirected,eats
+Duranta mutisii,Zonotrichia capensis,Undirected,eats
+Citharexylum subflavescens,Zonotrichia capensis,Undirected,eats
+Bombus pauloensis,Cucurbita pepo,Undirected,interactsWith
+Cucurbita pepo,Prunus serotina,Undirected,hasHost
+Baccharis latifolia,Eristalinus taeniops,Undirected,interactsWith; visitsFlowersOf
+Asemosyrphus mexicanus,Baccharis latifolia,Undirected,visitsFlowersOf
+Baccharis latifolia,Colibri coruscans,Undirected,interactsWith
+Bombus pauloensis,Thunbergia alata,Undirected,visitsFlowersOf
+Bombus pauloensis,Streptosolen jamesonii,Undirected,eats
+Bombus pauloensis,Solanum quitoense,Undirected,eats; pollinates
+Bombus pauloensis,Tara spinosa,Undirected,eats
+Bombus pauloensis,Smallanthus pyramidalis,Undirected,eats
+Bombus pauloensis,Raphanus raphanistrum,Undirected,eats
+Bombus pauloensis,Solanum laxum,Undirected,eats
+Abatia parviflora,Bombus pauloensis,Undirected,interactsWith
+Bombus pauloensis,Lycianthes lycioides,Undirected,eats
+Bombus pauloensis,Physalis peruviana,Undirected,pollinates
+Bombus pauloensis,Vallea stipularis,Undirected,interactsWith
+Columba livia domestica,Lobularia maritima,Undirected,eats
+Deroceras reticulatum,Lobularia maritima,Undirected,interactsWith
+Rattus norvegicus,Rattus rattus,Undirected,coOccursWith; hasVector; interactsWith
+Mus musculus,Rattus norvegicus,Undirected,coOccursWith; interactsWith; preysOn
+Buteo platypterus,Rattus norvegicus,Undirected,eats
+Podilymbus podiceps,Rattus norvegicus,Undirected,eats; interactsWith
+Mus musculus,Rattus rattus,Undirected,coOccursWith
+Elanus leucurus,Rattus rattus,Undirected,eats; interactsWith; preysOn
+Buteo platypterus,Rattus rattus,Undirected,interactsWith
+Coragyps atratus,Rattus rattus,Undirected,eats
+Ardea alba,Rattus rattus,Undirected,preysOn
+Columba livia domestica,Raphanus raphanistrum,Undirected,eats
+Leptophobia aripa,Raphanus raphanistrum,Undirected,interactsWith
+Raphanus raphanistrum,Vanessa carye,Undirected,hasHost
+Eristalinus taeniops,Persea americana,Undirected,visitsFlowersOf
+Persea americana,Thraupis palmarum,Undirected,eats
+Persea americana,Vireo olivaceus,Undirected,eats
+Ganoderma applanatum,Persea americana,Undirected,pathogenOf
+Persea americana,Tyrannus melancholicus,Undirected,eats
+Colibri coruscans,Thunbergia alata,Undirected,eats
+Colibri coruscans,Tecoma stans,Undirected,interactsWith; visits; visitsFlowersOf
+Catharus ustulatus,Sambucus nigra,Undirected,eats
+Sambucus nigra,Vireo olivaceus,Undirected,eats
+Columba livia domestica,Sambucus nigra,Undirected,eats
+Harmonia axyridis,Sambucus nigra,Undirected,eats; interactsWith; visits
+Contopus virens,Sambucus nigra,Undirected,eats
+Sambucus nigra,Tyrannus tyrannus,Undirected,eats
+Sambucus nigra,Turdus fuscater gigas,Undirected,eats
+Catharus fuscescens,Sambucus nigra,Undirected,eats
+Capsella bursa-pastoris,Leptophobia aripa,Undirected,coOccursWith; eats
+Duranta mutisii,Leptophobia aripa,Undirected,eats
+Diglossa albilatera,Vallea stipularis,Undirected,eats; pollinates
+Colibri coruscans,Vallea stipularis,Undirected,eats
+Columba livia domestica,Veronica persica,Undirected,eats
+Modiola caroliniana,Veronica persica,Undirected,interactsWith
+Ardea alba,Egretta thula,Undirected,interactsWith
+Ardea alba,Porzana carolina,Undirected,eats; preysOn
+Ardea alba,Mus musculus,Undirected,eats; preysOn
+Ardea alba,Fulica americana,Undirected,preysOn
+Ardea alba,Egretta caerulea,Undirected,interactsWith
+Ardea alba,Dendrocygna autumnalis,Undirected,interactsWith
+Ardea alba,Gallinula galeata,Undirected,preysOn
+Ardea alba,Coragyps atratus,Undirected,eats
+Ardea alba,Butorides virescens,Undirected,interactsWith
+Egretta thula,Fulica americana,Undirected,interactsWith
+Bocconia frutescens,Piranga rubra,Undirected,eats
+Piranga rubra,Prunus serotina,Undirected,eats
+Citharexylum subflavescens,Piranga rubra,Undirected,eats
+Piranga rubra,Schinus molle,Undirected,eats
+Oreopanax incisus,Piranga rubra,Undirected,eats
+Morella pubescens,Piranga rubra,Undirected,eats
+Cenchrus clandestinus,Mus musculus,Undirected,eats
+Elanus leucurus,Mus musculus,Undirected,eats; preysOn
+Bidens laevis,Podilymbus podiceps,Undirected,coOccursWith
+Bidens laevis,Fulica americana columbiana,Undirected,eats
+Morella pubescens,Turdus fuscater,Undirected,eats
+Catharus ustulatus,Morella pubescens,Undirected,eats
+Morella pubescens,Thraupis episcopus,Undirected,eats
+Morella pubescens,Thraupis palmarum,Undirected,eats
+Morella pubescens,Vireo flavoviridis,Undirected,eats
+Cardellina canadensis,Morella pubescens,Undirected,eats
+Morella pubescens,Tyrannus melancholicus,Undirected,eats
+Morella pubescens,Spinus psaltria,Undirected,eats
+Morella pubescens,Zenaida auriculata,Undirected,eats
+Morella pubescens,Setophaga fusca,Undirected,eats
+Icterus chrysater,Morella pubescens,Undirected,eats
+Duranta mutisii,Turdus fuscater,Undirected,eats
+Ganoderma applanatum,Schinus molle,Undirected,hasHost
+Acacia dealbata,Ganoderma applanatum,Undirected,hasHost
+Ganoderma applanatum,Prunus serotina,Undirected,hasHost
+Catharus ustulatus,Schinus molle,Undirected,eats
+Modiola caroliniana,Vanessa carye,Undirected,interactsWith
+Catharus ustulatus,Prunus serotina,Undirected,eats
+Bocconia frutescens,Catharus ustulatus,Undirected,eats
+Catharus ustulatus,Citharexylum subflavescens,Undirected,eats
+Catharus ustulatus,Oreopanax incisus,Undirected,eats
+Prunus serotina,Vireo olivaceus,Undirected,eats
+Bocconia frutescens,Vireo olivaceus,Undirected,eats
+Vireo olivaceus,Zelus longipes,Undirected,preysOn
+Solanum laxum,Vireo olivaceus,Undirected,eats
+Ricinus communis,Vireo olivaceus,Undirected,eats; interactsWith
+Cornu aspersum,Ricinus communis,Undirected,interactsWith
+Ricinus communis,Tyrannus savana,Undirected,eats
+Capsella bursa-pastoris,Columba livia domestica,Undirected,eats
+Oreopanax incisus,Thraupis palmarum,Undirected,eats
+Bocconia frutescens,Thraupis palmarum,Undirected,eats
+Citharexylum subflavescens,Thraupis palmarum,Undirected,eats
+Prunus serotina,Tyrannus tyrannus,Undirected,eats
+Columba livia domestica,Prunus serotina,Undirected,eats
+Harmonia axyridis,Prunus serotina,Undirected,interactsWith; pollinates
+Catharus fuscescens,Prunus serotina,Undirected,eats
+Piranga olivacea,Prunus serotina,Undirected,eats; visits
+Prunus serotina,Turdus fuscater gigas,Undirected,eats
+Bocconia frutescens,Spinus psaltria,Undirected,eats
+Oreopanax incisus,Spinus psaltria,Undirected,eats
+Citharexylum subflavescens,Spinus psaltria,Undirected,eats
+Columba livia domestica,Typha latifolia,Undirected,eats
+Acacia dealbata,Columba livia domestica,Undirected,eats
+Columba livia domestica,Rupornis magnirostris,Undirected,preysOn
+Fulica americana,Typha latifolia,Undirected,eats
+Fulica americana,Podilymbus podiceps,Undirected,eats; interactsWith
+Fulica americana,Spatula discors,Undirected,interactsWith
+Fulica americana,Gallinula galeata,Undirected,interactsWith
+Coprinellus disseminatus,Typha latifolia,Undirected,hasHost
+Harmonia axyridis,Steatoda nobilis,Undirected,preysOn
+Duranta mutisii,Harmonia axyridis,Undirected,interactsWith
+Buteo platypterus,Coccyzus americanus,Undirected,eats
+Buteo platypterus,Butorides virescens,Undirected,eats
+Buteo platypterus,Catharus fuscescens,Undirected,eats
+Dione glycera,Streptosolen jamesonii,Undirected,eats
+Crocosmia × crocosmiiflora,Dione glycera,Undirected,eats; visitsFlowersOf
+Dione glycera,Passiflora tarminiana,Undirected,coOccursWith; eats
+Colibri coruscans,Streptosolen jamesonii,Undirected,eats; pollinates; visitsFlowersOf
+Diglossa sittoides,Streptosolen jamesonii,Undirected,eats
+Streptosolen jamesonii,Turdus fuscater gigas,Undirected,eats
+Rupornis magnirostris,Tyrannus melancholicus,Undirected,interactsWith
+Citharexylum subflavescens,Tyrannus melancholicus,Undirected,eats
+Oreopanax incisus,Tyrannus melancholicus,Undirected,eats
+Bocconia frutescens,Tyrannus melancholicus,Undirected,eats
+Solanum laxum,Tyrannus melancholicus,Undirected,eats
+Colibri coruscans,Nicotiana tabacum,Undirected,eats; visits; visitsFlowersOf
+Colibri coruscans,Duranta mutisii,Undirected,eats
+Clusia multiflora,Colibri coruscans,Undirected,eats
+Colibri coruscans,Impatiens sodenii,Undirected,eats
+Bocconia frutescens,Thraupis episcopus,Undirected,eats
+Bocconia frutescens,Turdus fuscater gigas,Undirected,eats
+Bocconia frutescens,Cardellina canadensis,Undirected,eats
+Bocconia frutescens,Icterus chrysater,Undirected,eats
+Bocconia frutescens,Myiodynastes luteiventris,Undirected,eats
+Bocconia frutescens,Setophaga fusca,Undirected,eats
+Bocconia frutescens,Zenaida auriculata,Undirected,eats
+Atlapetes pallidinucha,Bocconia frutescens,Undirected,eats
+Cornu aspersum,Solanum laxum,Undirected,visits
+Empidonomus varius,Solanum laxum,Undirected,eats
+Oreopanax incisus,Thraupis episcopus,Undirected,eats
+Citharexylum subflavescens,Thraupis episcopus,Undirected,eats
+Heterogomphus dilaticollis,Physalis peruviana,Undirected,eats
+Solanum quitoense,Zelus longipes,Undirected,interactsWith
+Clusia multiflora,Diglossa albilatera,Undirected,eats; pollinates
+Clusia multiflora,Diglossa sittoides,Undirected,eats
+Clusia multiflora,Icterus chrysater,Undirected,eats
+Egretta caerulea,Tringa solitaria,Undirected,interactsWith
+Hydrocotyle ranunculoides,Podilymbus podiceps,Undirected,coOccursWith
+Dendrocygna autumnalis,Spatula discors,Undirected,interactsWith
+Smallanthus pyramidalis,Synallaxis subpudica,Undirected,coOccursWith
+Cardellina canadensis,Oreopanax incisus,Undirected,eats
+Cardellina canadensis,Citharexylum subflavescens,Undirected,eats
+Oreopanax incisus,Turdus fuscater gigas,Undirected,eats
+Oreopanax incisus,Zenaida auriculata,Undirected,eats
+Icterus chrysater,Oreopanax incisus,Undirected,eats
+Oreopanax incisus,Setophaga fusca,Undirected,eats
+Myrcianthes leucoxyla,Turdus fuscater gigas,Undirected,eats; hasVector
+Salix humboldtiana,Turdus fuscater gigas,Undirected,coOccursWith
+Turdus fuscater gigas,Xylosma spiculifera,Undirected,eats
+Duranta mutisii,Vireo flavoviridis,Undirected,eats
+Alnus acuminata,Zenaida auriculata pentheria,Undirected,coOccursWith; eats
+Alnus acuminata,Spinus spinescens,Undirected,eats
+Alnus acuminata,Zenaida auriculata,Undirected,eats
+Rallus semiplumbeus,Rupornis magnirostris,Undirected,eats
+Rupornis magnirostris,Zenaida auriculata,Undirected,eats
+Sicalis flaveola,Zenaida auriculata,Undirected,interactsWith
+Citharexylum subflavescens,Zenaida auriculata,Undirected,eats
+Abatia parviflora,Spinus spinescens,Undirected,eats
+Citharexylum subflavescens,Setophaga fusca,Undirected,eats
+Citharexylum subflavescens,Zenaida auriculata pentheria,Undirected,coOccursWith; eats
+Citharexylum subflavescens,Icterus chrysater,Undirected,eats
+Salix humboldtiana,Tyrannus savana,Undirected,eats
+Pyrocephalus rubinus,Quercus humboldtii,Undirected,eats
+Icterus chrysater,Quercus humboldtii,Undirected,eats
+Fulica americana columbiana,Hydrocotyle ranunculoides,Undirected,interactsWith
+Fulica americana columbiana,Porphyrio martinica,Undirected,interactsWith
+Fulica americana columbiana,Schoenoplectus californicus,Undirected,coOccursWith; eats
+Butorides striata,Porphyrio martinica,Undirected,interactsWith
+Dendrocygna viduata,Schoenoplectus californicus,Undirected,eats
